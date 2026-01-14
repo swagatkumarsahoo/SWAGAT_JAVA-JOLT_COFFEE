@@ -6,6 +6,8 @@ Welcome to **SWAGAT COFFEE CAFE**, a static website for Swagat's Java Jolt Coffe
 
 The website is built as a static HTML/CSS/JavaScript application, making it lightweight and fast to load. It features a modern design using Bootstrap 5 for responsiveness, custom CSS for branding, and JavaScript libraries for interactivity like slideshows and smooth scrolling.
 
+Live Preview: https://tourmaline-praline-038a68.netlify.app/
+
 ## Features
 
 - **Homepage (index.html)**:
